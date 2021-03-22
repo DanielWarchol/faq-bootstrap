@@ -15,8 +15,15 @@
     color: orange;
 }
 
-
 hr{
     color: grey;
 }
 
+p {
+    align-items: center;
+    margin-left: 150px;
+}
+
+.accordion-button {
+    margin: -5px;
+}
