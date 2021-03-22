@@ -1,7 +1,10 @@
 
+
+
+
 .accordion {
     text-align: center;
-    padding: 100px;
+    padding: 160px;
 }
 
 .accordion h2 {
@@ -10,20 +13,24 @@
 
 .accordion-button {
     padding: 20px;
-    width: 70%;
-    height: 30%;
+    width: 1000px;
+    margin-top: -10px;
     color: orange;
 }
+
 
 hr{
     color: grey;
 }
 
-p {
-    align-items: center;
-    margin-left: 150px;
-}
-
-.accordion-button {
-    margin: -5px;
+.text-container {
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    border-top: 1px solid grey;
+    border-bottom:1px solid grey;
+    margin-left: 55.6px;
+    width: 1000px;
+    margin-top: -9px;
+    margin-bottom: 10px;
+    color: grey;
 }
