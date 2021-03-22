@@ -4,27 +4,19 @@
     padding: 100px;
 }
 
-.accordion h1 {
-    color:grey;
-}
-
-.accordio-item {
+.accordion h2 {
     color:grey;
 }
 
 .accordion-button {
     padding: 20px;
-    width: 50%;
+    width: 70%;
     height: 30%;
-}
-
-#headingone a,
-#headingtwo a,
-#headingthree a {
     color: orange;
 }
 
+
 hr{
-    width: 50%;
     color: grey;
 }
+
